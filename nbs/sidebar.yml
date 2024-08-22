@@ -1,5 +1,6 @@
 website:
   sidebar:
     contents:
-      - 00_core.ipynb
       - LLM_TARIM.ipynb
+      - 00_core.ipynb
+      
