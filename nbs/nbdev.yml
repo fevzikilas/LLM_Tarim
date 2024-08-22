@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "LLM_Tarim"
+  site-url: "https://fevzikilas.github.io/LLM_Tarim"
+  description: "LLM Tarim Modeli /Meta-Llama-3-8B"
+  repo-branch: main
+  repo-url: "https://github.com/fevzikilas/LLM_Tarim"
